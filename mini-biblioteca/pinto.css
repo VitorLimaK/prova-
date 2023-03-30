@@ -1,0 +1,18 @@
+html{background-color: aquamarine;
+text-align: center;}
+
+
+td{
+    text-align: center;
+    left: 760px;
+    position: relative;
+}
+th{
+    left: 760px;
+    position: relative;
+}
+
+h1{
+    font-size: 90px;
+    color: white;
+    background-color: brown;}

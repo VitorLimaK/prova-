@@ -1,0 +1,23 @@
+
+html{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+td{
+    text-align: center;
+    left: 760px;
+    position: relative;
+}
+th{
+    left: 760px;
+    position: relative;
+}
+
+h1{
+font-size: 90px;
+    background-color: brown;
+    color: white;
+}
+
+
